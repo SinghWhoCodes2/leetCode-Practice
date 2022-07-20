@@ -5,7 +5,7 @@ import java.util.Set;
 
 public class LongestConsecutive {
 	 public int longestConsecutive(int[] nums) {
-	        
+	        //best approach
 		 // create a set and add all the array elements to it 
 		 // this set will be used to check that set contains next number of sequence
 		 //now create the result variable which is counter of longest sequence
