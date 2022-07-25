@@ -1,4 +1,4 @@
-package com.nav;
+package Two_Pointer;
 
 public class TwoSumTwo {
 //https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/discuss/2128516/Java-4-Approaches:-BF-HashMap-Binary-Search-Two-Pointers
