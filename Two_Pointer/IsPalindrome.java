@@ -1,4 +1,4 @@
-package com.nav;
+package Two_Pointer;
 
 public class IsPalindrome {
 	 public boolean isPalindrome(String s) {

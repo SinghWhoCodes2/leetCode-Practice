@@ -1,6 +1,6 @@
-package com.nav;
+package Two_Pointer;
 
-public class ContainMaxWater {
+public class ContainerMaxWater {
 	   public int maxArea(int[] height) {
 		   
 		   //Best Explanation https://youtu.be/TI3e-17YAlc
