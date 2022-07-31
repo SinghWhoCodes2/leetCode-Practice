@@ -1,4 +1,4 @@
-package com.nav;
+package Array;
 
 
 public class ProductOfArray {
