@@ -1,4 +1,4 @@
-package BinarySeach;
+package binarySeachAlgo;
 
 
 
